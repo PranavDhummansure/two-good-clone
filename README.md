@@ -7,4 +7,5 @@
        3.JAVACRIPT
 
 #used scrolltrigger,locomotive js.
-       
+
+link for cloned website-" https://pranavdhummansure.github.io/two-good-clone/two-good-co-main"
